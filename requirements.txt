@@ -1,6 +1,6 @@
 pip==20.2.1
 asgiref==3.2.10
-Django==3.1
+Django==4.2.26
 django-countries==6.1.2
 pytz==020.1
 setuptools==49.2.0
